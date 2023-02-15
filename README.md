@@ -1,7 +1,7 @@
-#Author
+# Author
 [Pankaj Phour](https://github.com/Pankaj-Phour)
 
-#View Profile
+# View Profile
 https://pankajphour.netlify.app
 
 # ChatApp-Backend
